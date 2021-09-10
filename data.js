@@ -1,13 +1,13 @@
-var clientID = "6035b0fed97f7509aac2dcab";
-var FeatureFlag = "javascript-sdk-test-flag-1";
+var clientID = "CLIENT SDK KEY";
+var FeatureFlag = "FLAG KEY";
 var user = {
-    "key": "671749",
-    "name": "Brad Bunce",
-    "firstName": "Brad",
-    "lastName": "Bunce",
-    "email": "bbunce@launchdarkly.com",
+    "key": "USER KEY",
+    "name": "USERNAME",
+    "firstName": "USER FIRSTNAME",
+    "lastName": "USER LASTNAME",
+    "email": "USER EMAIL ADDRESS",
     "custom": {
-      "company": "LaunchDarkly",
-      "group": "SEA"
+      "company": "USER COMPANY",
+      "group": "USER GROUP"
     }
   };
